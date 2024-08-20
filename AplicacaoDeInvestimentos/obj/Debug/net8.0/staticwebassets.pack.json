@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\oaugu\\source\\repos\\AplicacaoDeInvestimentos\\AplicacaoDeInvestimentos\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\oaugu\\source\\repos\\AplicacaoDeInvestimentos\\AplicacaoDeInvestimentos\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AplicacaoDeInvestimentos.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AplicacaoDeInvestimentos.props",
+      "PackagePath": "build\\AplicacaoDeInvestimentos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AplicacaoDeInvestimentos.props",
+      "PackagePath": "buildMultiTargeting\\AplicacaoDeInvestimentos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AplicacaoDeInvestimentos.props",
+      "PackagePath": "buildTransitive\\AplicacaoDeInvestimentos.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

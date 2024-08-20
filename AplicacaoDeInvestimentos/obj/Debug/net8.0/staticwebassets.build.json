@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "4J+69vlFTOWRvWkJkqiGwvGpn9QF94sQNsRMv5/cR8M=",
+  "Source": "AplicacaoDeInvestimentos",
+  "BasePath": "_content/AplicacaoDeInvestimentos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AplicacaoDeInvestimentos\\wwwroot",
+      "Source": "AplicacaoDeInvestimentos",
+      "ContentRoot": "C:\\Users\\oaugu\\source\\repos\\AplicacaoDeInvestimentos\\AplicacaoDeInvestimentos\\wwwroot\\",
+      "BasePath": "_content/AplicacaoDeInvestimentos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\oaugu\\source\\repos\\AplicacaoDeInvestimentos\\AplicacaoDeInvestimentos\\wwwroot\\index.html",
+      "SourceId": "AplicacaoDeInvestimentos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oaugu\\source\\repos\\AplicacaoDeInvestimentos\\AplicacaoDeInvestimentos\\wwwroot\\",
+      "BasePath": "_content/AplicacaoDeInvestimentos",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\oaugu\\source\\repos\\AplicacaoDeInvestimentos\\AplicacaoDeInvestimentos\\wwwroot\\style.css",
+      "SourceId": "AplicacaoDeInvestimentos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oaugu\\source\\repos\\AplicacaoDeInvestimentos\\AplicacaoDeInvestimentos\\wwwroot\\",
+      "BasePath": "_content/AplicacaoDeInvestimentos",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
